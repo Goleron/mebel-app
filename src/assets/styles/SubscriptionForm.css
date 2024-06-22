@@ -1,0 +1,43 @@
+.subscription-form {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-top: 1px solid #e7e7e7;
+  }
+  
+  .subscription-form h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .subscription-form p {
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  .subscription-form form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .subscription-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-right: none;
+    flex: 1;
+  }
+  
+  .subscription-form button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .subscription-message {
+    margin-top: 10px;
+    color: green;
+  }
+  

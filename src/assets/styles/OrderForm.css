@@ -1,0 +1,40 @@
+/* src/pages/OrderForm.css */
+.order-form-container {
+    padding: 20px;
+  }
+  
+  .order-form-container form div {
+    margin-bottom: 15px;
+  }
+  
+  .order-form-container form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .order-form-container form input,
+  .order-form-container form select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .order-form-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  }
+  
+  .order-form-container button:hover {
+    transform: scale(1.1);
+  }
+  
+  .order-form-container p {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,33 @@
+.sidebar {
+  width: 100%;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-right: 1px solid #e7e7e7;
+}
+
+.sidebar h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin: 10px 0;
+}
+
+.sidebar ul li a {
+  color: #333;
+  text-decoration: none;
+}
+
+.sidebar__filter {
+  margin-top: 20px;
+}
+
+.sidebar__filter h3 {
+  margin-bottom: 10px;
+}

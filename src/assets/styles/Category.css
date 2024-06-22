@@ -1,0 +1,9 @@
+.favorites {
+  padding: 20px;
+}
+
+.favorites__products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}

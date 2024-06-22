@@ -1,0 +1,45 @@
+.order-form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.order-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.order-form label {
+  margin-top: 10px;
+}
+
+.order-form input,
+.order-form select {
+  margin-top: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.order-form span {
+  color: red;
+  font-size: 14px;
+}
+
+.recaptcha-container {
+  margin: 20px 0;
+}
+
+.order-form button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.order-form button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,33 @@
+/* src/pages/ProductDetails.css */
+.product-details-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.product-details-container img {
+  width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+.product-details-container h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.product-details-container p {
+  font-size: 1.2em;
+  color: #555;
+}
+
+.product-details-container h2 {
+  font-size: 2em;
+  margin: 20px 0;
+  color: #007bff;
+}
+
+.product-details-container .btn {
+  margin: 10px;
+}

@@ -1,0 +1,20 @@
+.product-page {
+    margin: 20px 0;
+  }
+  
+  .product-page__image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+  }
+  
+  .product-page p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .product-page .btn {
+    margin-right: 10px;
+  }
+  

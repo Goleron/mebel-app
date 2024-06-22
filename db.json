@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Диван Барон",
+      "price": 23960,
+      "description": "Удобный диван для гостиной.",
+      "image": "/images/sofa1.jpg",
+      "category": "Диваны"
+    },
+    {
+      "id": 2,
+      "name": "Диван еврокнижка Марк",
+      "price": 16690,
+      "description": "Современный диван еврокнижка.",
+      "image": "/images/sofa2.jpg",
+      "category": "Диваны"
+    },
+    {
+      "id": 3,
+      "name": "Диван Неаполь Макс 1,4",
+      "price": 38400,
+      "description": "Стильный и комфортный диван.",
+      "image": "/images/sofa3.jpg",
+      "category": "Диваны"
+    },
+    {
+      "id": 4,
+      "name": "Диван прямой Кастел",
+      "price": 50400,
+      "description": "Элегантный прямой диван.",
+      "image": "/images/sofa4.jpg",
+      "category": "Диваны"
+    },
+    {
+      "id": 5,
+      "name": "Мягкое кресло Комфорт",
+      "price": 12300,
+      "description": "Мягкое кресло для отдыха.",
+      "image": "/images/soft_furniture1.jpg",
+      "category": "Мягкая мебель"
+    },
+    {
+      "id": 6,
+      "name": "Шкаф-купе Лайт",
+      "price": 18200,
+      "description": "Просторный шкаф-купе.",
+      "image": "/images/wardrobe1.jpg",
+      "category": "Шкафы"
+    },
+    {
+      "id": 7,
+      "name": "Кухонный гарнитур Модерн",
+      "price": 45600,
+      "description": "Стильный кухонный гарнитур.",
+      "image": "/images/kitchen1.jpg",
+      "category": "Кухни и Столовые группы"
+    },
+    {
+      "id": 8,
+      "name": "Матрас Орто",
+      "price": 9400,
+      "description": "Ортопедический матрас.",
+      "image": "/images/matras.jpg",
+      "category": "Матрасы"
+    },
+    {
+      "id": 9,
+      "name": "Садовый столик",
+      "price": 6700,
+      "description": "Удобный столик для сада.",
+      "image": "/images/garden_furniture1.jpg",
+      "category": "Садовая мебель"
+    },
+    {
+      "id": 10,
+      "name": "Кровать Лофт",
+      "price": 28800,
+      "description": "Современная кровать в стиле лофт.",
+      "image": "/images/bed1.jpg",
+      "category": "Кровати"
+    }
+  ],
+  "feedback": [],
+  "subscriptions": [
+    {
+      "id": "9ff7",
+      "email": "karobkasladostei@gmail.com"
+    }
+  ]
+}

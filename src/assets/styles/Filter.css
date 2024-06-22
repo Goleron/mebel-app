@@ -1,0 +1,51 @@
+.filter {
+  padding: 20px;
+}
+
+.filter h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.filter ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.filter ul li {
+  margin: 10px 0;
+  cursor: pointer;
+  color: #333;
+}
+
+.filter ul li:hover {
+  color: #ff6600;
+}
+
+.filter__price, .filter__size {
+  margin-top: 20px;
+}
+
+.filter__price h3, .filter__size h3 {
+  margin-bottom: 10px;
+}
+
+.filter__range-inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter__range-inputs input {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.filter button {
+  width: 100%;
+  padding: 10px;
+  background-color: #ff6600;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

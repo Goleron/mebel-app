@@ -1,0 +1,21 @@
+.catalog {
+  padding: 20px;
+}
+
+.catalog__filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.catalog__filters select,
+.catalog__filters input {
+  padding: 5px;
+  font-size: 1rem;
+}
+
+.catalog__products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}

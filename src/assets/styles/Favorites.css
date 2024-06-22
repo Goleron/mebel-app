@@ -1,0 +1,76 @@
+/* src/pages/Favorites.css */
+.favorites-container {
+  padding: 20px;
+}
+
+.favorites-item button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  max-width: 150px;
+  transition: transform 0.3s;
+}
+
+.favorites-item button:hover {
+  transform: scale(1.1);
+}
+
+
+.favorites-item img {
+  width: 150px;
+  height: auto;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
+.favorites-item div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.favorites-item h2 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.favorites-item p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.favorites-item-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.favorites-item button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  max-width: 150px;
+}
+
+.favorites-item button:first-child {
+  background-color: #dc3545;
+}
+
+.favorites-item button:first-child:hover {
+  background-color: #c82333;
+}
+
+.favorites-item button:last-child {
+  background-color: #007bff;
+}
+
+.favorites-item button:last-child:hover {
+  background-color: #0056b3;
+}
