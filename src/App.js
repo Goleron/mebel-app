@@ -26,6 +26,8 @@ function App() {
               <Route path="/favorites" element={<Favorites />} />
               <Route path="/feedback" element={<Feedback />} />
               <Route path="/order" element={<Order />} />
+              <Route path="/ yandex_6f695e956f72d689" element={<yandex_6f695e956f72d689 />} />
+
             </Routes>
           </div>
           <Footer />
